@@ -4,6 +4,8 @@ This project was developed as part of a code challenge. The project is named **P
 
 **PayTrack** is a simple transaction management API designed to store user and transaction data in a relational database and provide efficient in-memory summarization of transaction records.
 
+[![.NET](https://github.com/VasiErdeiEdeka/PayTrackApi/actions/workflows/build.yml/badge.svg?branch=master)](https://github.com/VasiErdeiEdeka/PayTrackApi/actions/workflows/build.yml)
+
 ---
 
 ## Objective
