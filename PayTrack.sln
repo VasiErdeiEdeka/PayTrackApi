@@ -1,0 +1,46 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PayTrack.API", "PayTrack.API\PayTrack.API.csproj", "{C30FB12F-61A4-45B5-B374-AEA534E6B233}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PayTrack.Application", "PayTrack.Application\PayTrack.Application.csproj", "{5F19083E-3215-4296-A4D9-3CF3FAF31EBC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PayTrack.Domain", "PayTrack.Domain\PayTrack.Domain.csproj", "{A2EC3831-668A-4D12-B87B-0644B6E25AF2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PayTrack.Infrastructure", "PayTrack.Infrastructure\PayTrack.Infrastructure.csproj", "{B5949B6F-B994-4C73-A9FC-0837916DF57B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PayTrack.Tests", "PayTrack.Tests\PayTrack.Tests.csproj", "{82E3E6CB-2785-4ECD-99AB-29FDF8CF3A15}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C30FB12F-61A4-45B5-B374-AEA534E6B233}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C30FB12F-61A4-45B5-B374-AEA534E6B233}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C30FB12F-61A4-45B5-B374-AEA534E6B233}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C30FB12F-61A4-45B5-B374-AEA534E6B233}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5F19083E-3215-4296-A4D9-3CF3FAF31EBC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5F19083E-3215-4296-A4D9-3CF3FAF31EBC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5F19083E-3215-4296-A4D9-3CF3FAF31EBC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5F19083E-3215-4296-A4D9-3CF3FAF31EBC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A2EC3831-668A-4D12-B87B-0644B6E25AF2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A2EC3831-668A-4D12-B87B-0644B6E25AF2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A2EC3831-668A-4D12-B87B-0644B6E25AF2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A2EC3831-668A-4D12-B87B-0644B6E25AF2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B5949B6F-B994-4C73-A9FC-0837916DF57B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B5949B6F-B994-4C73-A9FC-0837916DF57B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B5949B6F-B994-4C73-A9FC-0837916DF57B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B5949B6F-B994-4C73-A9FC-0837916DF57B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{82E3E6CB-2785-4ECD-99AB-29FDF8CF3A15}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{82E3E6CB-2785-4ECD-99AB-29FDF8CF3A15}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{82E3E6CB-2785-4ECD-99AB-29FDF8CF3A15}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{82E3E6CB-2785-4ECD-99AB-29FDF8CF3A15}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
